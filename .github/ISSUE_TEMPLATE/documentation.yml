@@ -1,12 +1,4 @@
----
-name: Documentation
-about: Report unclear, missing, or incorrect documentation
-title: "[DOCS]: "
-labels: 'documentation, priority: unset, triage'
-assignees: ''
-
----
-
+# SPDX-License-Identifier: AGPL-3.0-or-later
 name: Documentation
 description: Report unclear, missing, or incorrect documentation
 title: "[Docs]: "

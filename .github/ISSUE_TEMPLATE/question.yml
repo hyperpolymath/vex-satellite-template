@@ -1,12 +1,4 @@
----
-name: Question
-about: Ask a question about usage or behaviour
-title: "[QUESTION]: "
-labels: question, triage
-assignees: ''
-
----
-
+# SPDX-License-Identifier: AGPL-3.0-or-later
 name: Question
 description: Ask a question about usage or behaviour
 title: "[Question]: "
