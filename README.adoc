@@ -61,7 +61,7 @@ just check
 
 == License
 
-AGPL-3.0-or-later. See link:LICENSE.txt[LICENSE.txt].
+PMPL-1.0-or-later. See link:LICENSE.txt[LICENSE.txt].
 
 == Contributing
 
